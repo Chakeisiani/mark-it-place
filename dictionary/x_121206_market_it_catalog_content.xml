@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="sys_import_set_row" label="catalog content 123" max_length="40" name="x_121206_market_it_catalog_content" type="collection"/>
+    <element extends="sys_import_set_row" label="catalog content" max_length="40" name="x_121206_market_it_catalog_content" type="collection"/>
 </database>

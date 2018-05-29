@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-04-30 12:16:36</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>38a1ad364f92530007a7b4a18110c7ea</sys_id>
+        <sys_id>d892a9f64f92530007a7b4a18110c765</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_121206_market_it_catalog_content</sys_name>
         <sys_package display_value="market IT place" source="x_121206_market_it">bc76639d4f31130007a7b4a18110c79b</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="market IT place">bc76639d4f31130007a7b4a18110c79b</sys_scope>
-        <sys_update_name>ua_table_licensing_config_38a1ad364f92530007a7b4a18110c7ea</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_d892a9f64f92530007a7b4a18110c765</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2018-04-30 12:16:36</sys_updated_on>
     </ua_table_licensing_config>
