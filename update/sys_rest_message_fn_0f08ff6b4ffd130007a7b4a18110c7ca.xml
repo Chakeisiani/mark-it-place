@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>post</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>ABHISHEK2 [ post ]</qualified_name>
+        <rest_endpoint>https://dev17689.service-now.com/api/now//table/incident</rest_endpoint>
+        <rest_message display_value="ABHISHEK2">a0a7bf6b4ffd130007a7b4a18110c795</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 13:18:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0f08ff6b4ffd130007a7b4a18110c7ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>post</sys_name>
+        <sys_package display_value="market IT place" source="x_121206_market_it">bc76639d4f31130007a7b4a18110c79b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="market IT place">bc76639d4f31130007a7b4a18110c79b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_0f08ff6b4ffd130007a7b4a18110c7ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 13:18:31</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

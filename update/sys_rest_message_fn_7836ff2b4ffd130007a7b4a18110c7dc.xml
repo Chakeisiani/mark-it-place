@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="sashikant">0f377f6b4ffd130007a7b4a18110c79d</basic_auth_profile>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Post</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>Incident abhishek [ Post ]</qualified_name>
+        <rest_endpoint>https://dev46464.service-now.com/api/now/table/change_request</rest_endpoint>
+        <rest_message display_value="Incident abhishek">6884ffe74ffd130007a7b4a18110c7b1</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 13:09:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>7836ff2b4ffd130007a7b4a18110c7dc</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Post</sys_name>
+        <sys_package display_value="market IT place" source="x_121206_market_it">bc76639d4f31130007a7b4a18110c79b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="market IT place">bc76639d4f31130007a7b4a18110c79b</sys_scope>
+        <sys_update_name>sys_rest_message_fn_7836ff2b4ffd130007a7b4a18110c7dc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 13:51:08</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

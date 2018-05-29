@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>sashikant</name>
+        <password>UZyuD70dfAI=</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 13:14:05</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0f377f6b4ffd130007a7b4a18110c79d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sashikant</sys_name>
+        <sys_package display_value="market IT place" source="x_121206_market_it">bc76639d4f31130007a7b4a18110c79b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="market IT place">bc76639d4f31130007a7b4a18110c79b</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_0f377f6b4ffd130007a7b4a18110c79d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 13:14:05</sys_updated_on>
+        <username>admin</username>
+    </sys_auth_profile_basic>
+</record_update>

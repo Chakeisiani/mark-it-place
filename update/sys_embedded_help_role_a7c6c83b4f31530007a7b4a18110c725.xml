@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_121206_mark_it_p.user" name="x_121206_mark_it_p.user">e7c6c83b4f31530007a7b4a18110c723</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 14:21:50</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>a7c6c83b4f31530007a7b4a18110c725</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e7c6c83b4f31530007a7b4a18110c723</sys_name>
+        <sys_package display_value="market IT place" source="x_121206_market_it">bc76639d4f31130007a7b4a18110c79b</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="market IT place">bc76639d4f31130007a7b4a18110c79b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a7c6c83b4f31530007a7b4a18110c725</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 14:21:50</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
